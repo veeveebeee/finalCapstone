@@ -1,6 +1,6 @@
 # finalCapstone
 
-This is my 5th project for my Software Engineering Bootcamp.
+This is the 4th project for my Software Engineering Bootcamp.
 It uses OOP to manage stock in a shoe warehouse. A .txt file stores the following information for each shoe:
 ● Country
 ● Code
